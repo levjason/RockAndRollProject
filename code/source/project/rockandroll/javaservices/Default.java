@@ -48,6 +48,7 @@ public final class Default
 		
 		String outputStr2 = null;
 		// --- <<IS-END-INSTANCES-PIPELINE-OUT>> ---
+		outputStr2 = inputStr1.toUpperCase();
 		
 		// --- <<IS-BEGIN-PIPELINE-OUT>> ---
 		// WARNING: Auto generate code will not be preserved upon Java signature update.
