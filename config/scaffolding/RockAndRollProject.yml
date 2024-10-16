@@ -8,7 +8,7 @@ packages:
   gitUsername: levjason
   gitBranch: main
 services:
-- serviceName: project.rockandroll.javaservices.Default:MakeItUpper
+- serviceName: project.rockandroll.javaservices:MakeItUpper
   packages:
   - name: RockAndRollProject
     version: "1.0"
